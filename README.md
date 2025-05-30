@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8DF8&width=435&lines=Web+Developer+%7C+Tech+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **[@Dewiji](https://github.com/Dewiji)**
+- 🔭 I’m currently working on **[@Dewiji](https://github.com/Arupika/Dewiji)**
 - 🌱 I’m currently learning **Vue.js**
 - 💬 Ask me about **web development**, **frontend**, or **Vue**
 - 📫 How to reach me: [@Irzha Fahrizaldy](https://www.linkedin.com/in/irzha-fahrizaldy-2254a0305/)
