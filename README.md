@@ -1,4 +1,6 @@
 ## Hi there, I'm Irzha 👋
+![Visitor Badge](https://komarev.com/ghpvc/?username=Arupika&style=flat-square&color=blue)
+![Contributors](https://img.shields.io/github/contributors/Arupika/Dewiji?style=flat-square)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8DF8&width=435&lines=Web+Developer+%7C+Tech+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
 
@@ -18,8 +20,10 @@
 ---
 
 ### 📊 GitHub Stats
-![Irzha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Irzha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arupika&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arupika&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Arupika&theme=radical&hide_border=false)
+
 
 ---
 
