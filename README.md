@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8DF8&width=435&lines=Web+Developer+%7C+Tech+Enthusiast;Always+learning+something+new!" alt="Typing SVG" />
 
 - 🔭 I’m currently working on **[@Dewiji](https://github.com/Arupika/Dewiji)**
-- 🌱 I’m currently learning **Vue.js**
-- 💬 Ask me about **web development**, **frontend**, or **Vue**
+- 🌱 I’m currently learning **Vue.js & Laravel**
+- 💬 Ask me about **web development**, **Frontend**, **Backend**, **Vue**, **Larvel** ,
 - 📫 How to reach me: [@Irzha Fahrizaldy](https://www.linkedin.com/in/irzha-fahrizaldy-2254a0305/)
 
 ---
@@ -16,14 +16,14 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![Irzha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arupika&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arupika&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Arupika&theme=radical&hide_border=false)
-
+![Irzha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arupika&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arupika&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arupika&theme=tokyonight)
 
 ---
 
