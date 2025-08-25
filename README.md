@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[@Dewiji](https://github.com/Arupika/Dewiji)**
 - 🌱 I’m currently learning **Vue.js & Laravel**
-- 💬 Ask me about **web development**, **Frontend**, **Backend**, **Vue**, **Larvel** ,
+- 💬 Ask me about **web development**, **Frontend**, **Backend**, **Vue**, **Larvel**
 - 📫 How to reach me: [@Irzha Fahrizaldy](https://www.linkedin.com/in/irzha-fahrizaldy-2254a0305/)
 
 ---
