@@ -18,14 +18,29 @@
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,laravel,tailwind,mysql,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<p>
+  <a href="https://github.com/Arupika/Irzha_Portofolio">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Arupika&repo=Irzha_Portofolio&theme=tokyonight&hide_border=true" alt="Irzha_Portofolio" />
+  </a>
+  <a href="https://github.com/Arupika/Dewiji">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Arupika&repo=Dewiji&theme=tokyonight&hide_border=true" alt="Dewiji" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/Arupika/Analisis-Review-Buku-Amazon">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Arupika&repo=Analisis-Review-Buku-Amazon&theme=tokyonight&hide_border=true" alt="Analisis Review Buku Amazon" />
+  </a>
+  <a href="https://github.com/Arupika/Assignment-Application-for-Daily-Workers-Only-With-WhatsApp">
+    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=Arupika&repo=Assignment-Application-for-Daily-Workers-Only-With-WhatsApp&theme=tokyonight&hide_border=true" alt="Assignment App WhatsApp" />
+  </a>
 </p>
 
 ---
