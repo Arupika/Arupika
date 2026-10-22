@@ -15,12 +15,27 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - name: Randomize snake config
+        id: cfg
+        shell: bash
+        run: |
+          dots_light=("#ebedf0" "#9be9a8" "#40c463" "#30a14e" "#216e39")
+          dots_dark=("#161b22" "#0e4429" "#006d32" "#26a641" "#39d353")
+          snake=$(printf '#%06x' $((RANDOM * RANDOM % 16777216)))
+          order=$(shuf -e random fixed -n 1)
+          echo "snake=${snake}" >> "$GITHUB_OUTPUT"
+          echo "order=${order}" >> "$GITHUB_OUTPUT"
+          echo "dots_light=$(IFS=,; echo "${dots_light[*]}")" >> "$GITHUB_OUTPUT"
+          echo "dots_dark=$(IFS=,; echo "${dots_dark[*]}")" >> "$GITHUB_OUTPUT"
+
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Arupika
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=random&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39&snake_order=random
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=random&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&snake_order=random
+            dist/github-snake.svg?color_snake=${{ steps.cfg.outputs.snake }}&color_dots=${{ steps.cfg.outputs.dots_light }}&snake_order=${{ steps.cfg.outputs.order }}
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=${{ steps.cfg.outputs.snake }}&color_dots=${{ steps.cfg.outputs.dots_dark }}&snake_order=${{ steps.cfg.outputs.order }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

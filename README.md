@@ -1,7 +1,7 @@
 ## Hi there, I'm Irzha 👋
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Arupika&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arupika&label=Profile+views&color=0e75b6&style=flat-square&v=2" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Arupika?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=flat" alt="Status" />
 </p>
