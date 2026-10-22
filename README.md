@@ -1,7 +1,7 @@
 ## Hi there, I'm Irzha 👋
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Arupika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FArupika&count_bg=%230e75b6&title_bg=%23555555&title=Profile%20views&edge_flat=true" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Arupika?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   <img src="https://img.shields.io/badge/Status-Coding-brightgreen?style=flat" alt="Status" />
 </p>
@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -38,6 +41,14 @@
   <img src="https://streak-stats.demolab.com/?user=Arupika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arupika&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arupika&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
 ---
 
 ### 🔗 Connect with Me
@@ -46,8 +57,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_irzha_)
 
 ---
-
-### 🐍 Watch the snake eat my contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arupika/Arupika/output/github-snake-dark.svg" />
